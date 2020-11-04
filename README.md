@@ -90,4 +90,10 @@ For example, 0 is free or a plain, the greater the value, the more difficult the
 ![Algorithms_Comparison](https://user-images.githubusercontent.com/45918740/98109866-f3493e00-1ea6-11eb-898d-dbe8633ad72f.png)
 
 
-As you can see, the most efficient algorithm obtained is Astar, and therefore that is the algorithm we embedded on the server-side.
+As you can see, the most efficient algorithm obtained is Astar, and therefore that is the algorithm we embedded on the server-side.<br/><br/><br/>
+
+
+### Running example (handling multiple clients in parallel):
+![running example](https://user-images.githubusercontent.com/45918740/98113257-11fe0380-1eac-11eb-8ae4-58e3cec844ae.JPG)
+
+
